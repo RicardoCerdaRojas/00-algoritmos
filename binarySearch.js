@@ -54,6 +54,9 @@ while(_valuesToAdd){
     _valuesToAdd--
 }
 */
+
+// Otro comentario
+
 console.log('arr.length: ' + arr.length)
 console.log(arr)
 console.log('resultado: ', binarySearch(arr, binarySearchalue))
